@@ -1,0 +1,19 @@
+sentence_id,sentence,sentiment,topic,vader_scores,vader_compound,vader_sentiment,ml_sentiment
+0,The atmosphere at the stadium tonight was electric.,positive,sports,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,negative
+1,The game was so intense I forgot to breathe at times. What a win!,positive,sports,"{'neg': 0.0, 'neu': 0.632, 'pos': 0.368, 'compound': 0.7035}",0.7035,positive,negative
+2,It had me hooked from the first chapter.,positive,book,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,positive
+3,"It’s more of a slow burn than a page-turner, but it’s well-written, I guess.",neutral,book,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,neutral
+4,"It’s split into two timelines, which keeps it interesting but also a bit confusing at times.",neutral,book,"{'neg': 0.137, 'neu': 0.756, 'pos': 0.108, 'compound': -0.128}",-0.128,negative,neutral
+5,I could watch this film a hundred times and still find something new to love about it.,positive,movie,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.6369}",0.6369,positive,negative
+6,Best thriller I’ve seen in ages. Had me on the edge of my seat the entire time.,positive,movie,"{'neg': 0.0, 'neu': 0.728, 'pos': 0.272, 'compound': 0.6808}",0.6808,positive,positive
+7,How do you concede three goals in ten minutes? The whole defence needs replacing.,negative,sports,"{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.1027}",0.1027,positive,negative
+8,"They rotated their squad for the cup game, which wasn’t surprising given the schedule.",neutral,sports,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.2732}",0.2732,positive,neutral
+9,"The trailer gave away most of the plot, but there were still a few surprises.",neutral,movie,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.3291}",0.3291,positive,neutral
+10,The protagonist was so whiny I wanted to throw the book across the room.,negative,book,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,negative
+11,"The author’s writing style is so unique – poetic, but not over the top.",positive,book,"{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.2235}",-0.2235,negative,positive
+12,I don't get how was it supposed to work without any chemistry between the leads.,negative,movie,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,negative
+13,"It's still 0-0 so far, so way too early to tell - both teams trying their hardest, but maybe it won't be enough?",neutral,sports,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,negative
+14,"I don't get the appeal at all, it's just a couple guys kicking a ball around at the end of the day.",negative,sports,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,negative
+15,Did you hear the screenplay for it was originally written on a napkin?,neutral,movie,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,neutral
+16,It's really incredibly impressive to mess up such a tested blockbuster formula.,negative,movie,"{'neg': 0.149, 'neu': 0.432, 'pos': 0.419, 'compound': 0.7191}",0.7191,positive,negative
+17,The only way it's helped me is by keeping my table from being wobbly.,negative,book,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral,negative
